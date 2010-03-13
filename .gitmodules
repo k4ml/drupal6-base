@@ -1,3 +1,6 @@
 [submodule "drupal6-core"]
 	path = drupal6-core
 	url = git@github.com:k4ml/drupal6-core.git
+[submodule "sites/all/modules/admin_menu"]
+	path = sites/all/modules/admin_menu
+	url = git@github.com:k4ml/drupal6-admin_menu.git

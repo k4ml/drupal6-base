@@ -1,0 +1,1 @@
+../../drupal6-core/sites/default/default.settings.php

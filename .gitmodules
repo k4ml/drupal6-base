@@ -4,3 +4,6 @@
 [submodule "sites/all/modules/admin_menu"]
 	path = sites/all/modules/admin_menu
 	url = git@github.com:k4ml/drupal6-admin_menu.git
+[submodule "server"]
+	path = server
+	url = git@github.com:k4ml/devserver.git

@@ -7,3 +7,6 @@
 [submodule "server"]
 	path = server
 	url = git@github.com:k4ml/devserver.git
+[submodule "sites/all/modules/views"]
+	path = sites/all/modules/views
+	url = git@github.com:k4ml/drupal6-views.git

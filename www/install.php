@@ -1,0 +1,1 @@
+../drupal6-core/install.php

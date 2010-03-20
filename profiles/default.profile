@@ -8,7 +8,17 @@
  *   An array of modules to enable.
  */
 function default_profile_modules() {
-  return array('color', 'comment', 'help', 'menu', 'taxonomy', 'dblog');
+  return array(
+    'color', 
+    'comment', 
+    'help', 
+    'menu', 
+    'taxonomy', 
+    'dblog',
+    
+    // contrib
+    'admin_menu',
+  );
 }
 
 /**
